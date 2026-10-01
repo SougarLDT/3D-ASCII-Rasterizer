@@ -6,8 +6,8 @@ A 3D ASCII rasterizer renderer that loads `.obj` models and displays them in you
 - **Dynamic Shading** lighting based on face angle to the camera
 - **Delta Time** frame-rate independent animation
 - **.obj Model Loading** parses standard Wavefront .obj files
-![3D Cube Demo](Ressources/.eiffel.gif)
-![3D Cube Demo](Ressources/.pyramid.gif)
-![3D Cube Demo](Ressources/.revolver.gif)
-![3D Cube Demo](Ressources/.donut.gif)
-![3D Cube Demo](Ressources/.sphere.gif)
+![Eiffel Tower](Ressources/eiffel.gif)
+![Pyramid](Ressources/pyramid.gif)
+![Revolver](Ressources/revolver.gif)
+![Donut](Ressources/donut.gif)
+![Sphere](Ressources/sphere.gif)
